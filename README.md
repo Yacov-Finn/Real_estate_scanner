@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Real_estate_scanner
 
 Owned by Gavriel and Yacov
 hi
-o
+=======
+# Real_estate_scanner
+>>>>>>> 15f406a (Initial commit)
