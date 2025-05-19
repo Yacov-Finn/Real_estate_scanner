@@ -6,9 +6,4 @@ hi
 <<<<<<< HEAD
 =======
 # Real_estate_scanner
->>>>>>> 15f406a (Initial commit)
-=======
-
-
-Hi it's Gavriel
-I worked it out 
+finally all is working
