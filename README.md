@@ -11,4 +11,4 @@ hi
 
 
 Hi it's Gavriel
->>>>>>> b976a24 (it's gavriel)
+I worked it out 
